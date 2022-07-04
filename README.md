@@ -1,5 +1,5 @@
-# 👋🏼 Hi! I'm Ruslan
+# 👋🏼 Hey! I'm Ruslan
 
-Right now, my mind is focused on learning everything that is related to Web Development.
+Right now, my mind is _focused_ on learning everything that is related to Web Development.
 
-![Me](assets/me.gif)
+![Coding Animation](coding-animation.gif)
